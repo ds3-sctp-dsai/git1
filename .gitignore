@@ -278,4 +278,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+secrets.json
